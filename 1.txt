@@ -1,2 +1,2 @@
-Some changes
-Other changes
+some changes
+other changes
